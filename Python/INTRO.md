@@ -27,8 +27,8 @@ Para ejecutar el código Python de esta carpeta, solo necesitas el intérprete d
 
 ### Instalación de Python
 
-1.  Descarga el instalador oficial desde [python.org](https://www.python.org/downloads/).
-2.  **¡Importante!** Durante la instalación, asegúrate de marcar la opción **"Add Python to PATH"** para poder ejecutar `python` o `python3` desde cualquier terminal.
+1. Descarga el instalador oficial desde [python.org](https://www.python.org/downloads/).
+2. **¡Importante!** Durante la instalación, asegúrate de marcar la opción **"Add Python to PATH"** para poder ejecutar `python` o `python3` desde cualquier terminal.
 
 ### Ejecución de Código
 

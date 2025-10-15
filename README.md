@@ -42,12 +42,15 @@ El enfoque se centra en la lógica y los lenguajes fundamentales de la web:
 
 ## 🤝 Cómo Empezar
 
-1.  **Clona el repositorio:**
-    ```
+1. **Clona el repositorio:**
+
+```
     git clone https://github.com/jerielweb/Aprendiendo-Aprogramar.git
-    ```
-2.  **Elige tu punto de partida:** Si eres nuevo, empieza por `Python/` para lógica simple, o ve directamente a `JavaScript/` para interacción web.
-3.  **Practica:** Ejecuta los ejemplos, modifica el código y experimenta en tu propio entorno.
+```
+
+1. **Elige tu punto de partida:** Si eres nuevo, empieza por `Python/` para lógica simple, o ve directamente a `JavaScript/` para interacción web.
+
+2. **Practica:** Ejecuta los ejemplos, modifica el código y experimenta en tu propio entorno.
 
 ---
 

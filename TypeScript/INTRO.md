@@ -27,8 +27,8 @@ Para trabajar con los archivos `.ts` de esta carpeta, solo necesitas tener un en
 
 ### Instalación de TypeScript
 
-1.  Asegúrate de tener **Node.js** instalado.
-2.  Instala TypeScript de forma global para usar el compilador (`tsc`):
+1. Asegúrate de tener **Node.js** instalado.
+2. Instala TypeScript de forma global para usar el compilador (`tsc`):
 
     ```bash
     npm install -g typescript

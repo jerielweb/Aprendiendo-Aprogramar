@@ -27,8 +27,8 @@ La gran ventaja de JavaScript es que su código puede ejecutarse en dos entornos
 
 ### Entornos de Ejecución
 
-1.  **Navegador Web:** Ideal para los archivos que manipulan el **DOM** (archivos Intermedios y Avanzados). Simplemente abre el archivo HTML que referencia el script JS.
-2.  **Node.js:** Perfecto para ejecutar archivos que solo se centran en la lógica pura (archivos Básicos y algunas tareas Avanzadas).
+1. **Navegador Web:** Ideal para los archivos que manipulan el **DOM** (archivos Intermedios y Avanzados). Simplemente abre el archivo HTML que referencia el script JS.
+2. **Node.js:** Perfecto para ejecutar archivos que solo se centran en la lógica pura (archivos Básicos y algunas tareas Avanzadas).
 
 ### Ejecución de Código con Node.js
 
