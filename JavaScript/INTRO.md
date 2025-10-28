@@ -14,7 +14,7 @@ El material está dividido en tres niveles de dificultad para asegurar una progr
 
 | Carpeta | Nivel | Enfoque | Conceptos Clave |
 | :--- | :--- | :--- | :--- |
-| **01-Nivel-Basico/** | **Básico** | Fundamentos y Sintaxis | Variables (`let`, `const`), Tipos de Datos, Estructuras de Control (`if/else`, `switch`), Bucles, Funciones básicas. |
+| **01-Nivel-Basico/** | **Básico** | Fundamentos y Sintaxis | Variables (`let`, `const`y `var`), Tipos de Datos, Estructuras de Control (`if/else`, `switch`), Bucles, Funciones básicas. |
 | **02-Nivel-Intermedio/** | **Intermedio** | Lógica Funcional y DOM | Arrays, Objetos, *Destructuring*, *Spread/Rest Operators*, Funciones de Flecha, Introducción al **DOM** (Selección de elementos). |
 | **03-Nivel-Avanzado/** | **Avanzado** | Asincronía y POO | **Asincronía** (`Promises`, `async/await`), Peticiones HTTP (`fetch`), Clases y Herencia (POO), Manejo de Eventos en el DOM. |
 | **04-Ejercicios-Retos/** | **Práctica** | Aplicación Web | Retos centrados en manipular el DOM, manejar *timers* y consumir APIs sencillas. |
