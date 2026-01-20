@@ -58,3 +58,8 @@ print(1 < 5)
 print(1 > 5)
 print(True)
 print(False)
+
+# noneType (NoneType)
+print("NoneType:")
+print(type(None))
+print(None)
