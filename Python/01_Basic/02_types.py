@@ -1,0 +1,60 @@
+###
+# 01 - types()
+# Python tiene varios tipos de datos incorporados que son fundamentales para la programación.
+# int, float, str, list, tuple, dict, y bool son algunos de los tipos más comunes.
+###
+
+# Enteros (int)
+print("int:")
+print(type(10))
+print(type(-5))
+print(type(0))
+print(type(687498746514654685168541654165))
+print(10)
+print(-5)
+print(0)
+print(687498746514654685168541654165)
+
+# Flotantes (float)
+print("float:")
+print(type(3.14))
+print(type(-0.001))
+print(type(2.0))
+print(type(0.0))
+print(type(1e10))
+print(3.14)
+print(-0.001)
+print(2.0)
+print(0.0)
+print(1e10)
+
+# Complejos (complex)
+print("complex:")
+print(type(2 + 3j))
+print(type(-1j))
+print(2 + 3j)
+print(-1j)
+
+# Cadenas de texto (str)
+print("str:")
+print(type("Hola, Oboe!"))
+print(type('123'))
+print(type(''))
+print(type(
+    '''Esto es una cadena Multilinea'''
+        ))
+print("Hola, Oboe!")
+print('123')
+print('')
+print('''Esto es una cadena Multilinea''')
+
+# Booleanos (bool)
+print("bool:")
+print(type(True))
+print(type(False))
+print(type(1 < 5))
+print(type(1 > 5))
+print(1 < 5)
+print(1 > 5)
+print(True)
+print(False)
